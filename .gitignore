@@ -3,10 +3,10 @@
 /public/storage
 /storage/*.key
 /vendor
-.idea
-./vscode
+/.idea
+/.vscode
 /nbproject
-./vagrant
+/.vagrant
 Homestead.json
 Homestead.yaml
 npm-debug.log
